@@ -222,6 +222,7 @@ a{
 .product-search input{
     width: 80%;
     height: 30px;
+    color:black;
     border: 2px solid black;
     border-radius:20px;
 
@@ -235,7 +236,9 @@ a{
 .product-search input:hover{
     cursor:text ;
     text-decoration: none;
+    
 }
+
 .product-search i{
     padding: 5px;
     border: 2px solid black;
@@ -254,6 +257,10 @@ a{
     text-align: center;
     font-size: 20px;
     flex-basis: 20%;
+}
+.product-box p{
+    color: black;
+    font-weight: 400;
 }
 .product-box img{
     
